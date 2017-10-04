@@ -1,0 +1,14 @@
+﻿extensions: designer.cs generated.cs
+extensions: .cs .cpp .h
+/* Copyright (C) Przemysław Postrach - All Rights Reserved
+ * Unauthorized copying of this file, via any medium is strictly prohibited
+ * Proprietary and confidential
+ * Written by Przemysław Postrach <toyerek@gmail.com> July 2017
+ */
+extensions: .aspx .ascx
+<%-- 
+Copyright (C) Przemysław Postrach - All Rights Reserved Unauthorized copying of this file, via any medium is strictly prohibited Proprietary and confidential Written by Przemysław Postrach toyerek@gmail.com July 2017
+--%>
+extensions: .vb
+'Sample license text.
+extensions:  .xml .config .xsd
